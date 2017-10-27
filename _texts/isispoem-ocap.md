@@ -6,9 +6,9 @@ editor: Alex Gil
 source: Poetry Foundation
 ---
 
-- O Captain! my Captain! our fearful trip is done;[^fn1]
-- The ship has weather’d every rack, the prize we sought is won,
-- The port is near, the bells I hear, the people all exulting,
+- Isis try to put in your own poems;[^fn1]
+- Remember when you make a change, git status, git add . git status,
+- Git commit -m "name of change" then run jekyll serve and see!,
 - While follow eyes the steady keel, the vessel grim and daring; 
 - {:.indent-3}But O heart! heart! heart!
 - {:.indent-4}O the bleeding drops of red,
