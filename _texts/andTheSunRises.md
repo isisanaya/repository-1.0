@@ -21,8 +21,8 @@ source: Isis's Writing
 - {:.indent-5} Also shrinks into queit, heat filled, embers. 
 
 - And everything that's wrong in the world, 
--{:.indent-3} The underground, upside-down, paranormal negativity, 
+- {:.indent-3} The underground, upside-down, paranormal negativity, 
 - Weighs itsel in, on the scale of my concious. 
-{:.indent-3} Hopefully bright light outweighs the heavy shadows of guilt. 
+- {:.indent-3} Hopefully bright light outweighs the heavy shadows of guilt. 
 - And when the day is done,
--{:.indent-3} This is what creeps back into my mind to rejuvenate my soul. 
+- {:.indent-3} This is what creeps back into my mind to rejuvenate my soul. 
