@@ -1,9 +1,9 @@
 ---
 layout: poem
-title: A Julia de Burgos
-author: Julia de Burgos
-editor: Alex Gil
-source: Ciudad Seva
+title: And The Sun Rises
+author: Isis Kamit
+editor: Isis Kamit
+source: Isis's Writing
 ---
 
 - Ya las gentes murmuran que yo soy tu enemiga
