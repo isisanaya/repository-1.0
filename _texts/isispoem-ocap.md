@@ -1,9 +1,9 @@
 ---
 layout: poem
-title: "Some instuctions for "
-author: Walt Whitman
+title: "instuctions! "
+author: Isis Kamit
 editor: Isis Kamit
-source: Isis's writing
+source: Isis's Brain
 ---
 
 - Isis try to put in your own poems;[^fn1]
