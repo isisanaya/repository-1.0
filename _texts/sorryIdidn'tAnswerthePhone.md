@@ -8,7 +8,7 @@ source: Isis's Brain
 ---
 
 - So I mean,
-- I was just looking our the window like I always do.
+- I was just looking out the window like I always do.
 
 - But I don't just look.
 
