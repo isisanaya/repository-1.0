@@ -22,7 +22,7 @@ source: Isis's Writing
 
 - And everything that's wrong in the world, 
 - {:.indent-3} The underground, upside-down, paranormal negativity, 
-- Weighs itsel in, on the scale of my concious. 
+- Weighs itself in, on the scale of my concious. 
 
 - {:.indent-3} Hopefully bright light outweighs the heavy shadows of guilt. 
 
