@@ -1,56 +1,106 @@
 ---
 layout: poem
-title: "O Captain! My Captain!"
-author: Walt Whitman
-editor: Alex Gil
-source: Poetry Foundation
+title: Screen
+author: twenty one pilots
+editor: Isis Kamit
+source: Genius.com
 ---
 
-- O Captain! my Captain! our fearful trip is done;[^fn1]
-- The ship has weather’d every rack, the prize we sought is won,
-- The port is near, the bells I hear, the people all exulting,
-- While follow eyes the steady keel, the vessel grim and daring; 
-- {:.indent-3}But O heart! heart! heart!
-- {:.indent-4}O the bleeding drops of red,
-- {:.indent-5}Where on the deck my Captain lies,
-- {:.indent-6}Fallen cold and dead.
+- [Verse 1]
 
-- O Captain! my Captain! rise up and hear the bells; 
-- Rise up—for you the flag is flung—for you the bugle[^fn2] trills,
-- For you bouquets and ribbon’d wreaths—for you the shores a-crowding,
-- For you they call, the swaying mass, their eager faces turning;
-- {:.indent-3}Here Captain! dear father!
-- {:.indent-4}This arm beneath your head!
-- {:.indent-5}It is some dream that on the deck,
-- {:.indent-6}You’ve fallen cold and dead.
+- I do not know why I would go
+- In front of you and hide my soul
+- Cause you're the only one who knows it
+- Yeah, you're the only one who knows it
+- And I will hide behind my pride
+- I don't know why I think I can lie
+- Cause there's a screen on my chest
+- Yeah there's a screen on my chest
 
 
-- My Captain does not answer, his lips are pale and still,[^fn3]
-- My father does not feel my arm, he has no pulse nor will,
-- The ship is anchor’d safe and sound, its voyage closed and done,
-- From fearful trip the victor ship comes in with object won;
-- {:.indent-3}Exult O shores, and ring O bells!
-- {:.indent-4}But I with mournful tread,
-- {:.indent-5}Walk the deck my Captain lies,
-- {:.indent-6}Fallen cold and dead.
+- [Chorus]
 
-<br>
+- I'm standing in front of You
+- I'm standing in front of You
+- I'm trying to be so cool
+- Everything together trying to be so cool
+- I'm standing in front of You
+- I'm standing in front of You
+- I'm trying to be so cool
+- Everything together trying to be so cool
 
----
 
-## Footnotes
+- [Verse 2]
 
-[^fn1]: 
+- I can't see past my own nose
+- I'm seeing everything in slo-mo
+- Look out below crashing down to the ground
+- Just like a vertical locomotive
+- That's a train
+- Am I painting the picture that's in my brain?
+- A train from the sky
+- Locomotive, my motives are insane
+- My flow's not great, okay
+- I conversate with people
+- Who know if I flow on a song I'll get no radio play
+- While you're doing fine
+- There's some people and I
+- Who have a really tough time getting through this life
+- So excuse us while we sing to the sky
+ 
 
-	The author had just landed in La Guardia Airport after the flight captain died. All the passengers stood up to applaud the co-pilot. We have it in good authority that the event in question led Yoko Ono to write her "Letter to John":
+- [Chorus]
 
-	> - On a windy day let's go flying
-	> - There may be no trees to rest on
-	> - There may be no clouds to ride
-	> - But we'll have our wings and the wind will be with us
-	> - That's enough for me, that's enough for me.
-	{:.poetry}
+- I'm standing in front of You
+- I'm standing in front of You
+- I'm trying to be so cool
+- Everything together trying to be so cool
+- I'm standing in front of You
+- I'm standing in front of You
+- I'm trying to be so cool
+- Everything together trying to be so cool
 
-[^fn2]: The bugle is a small trumpet implicated in the military industrial complex.
 
-[^fn3]: Another footnote. Why not? 
+- [Bridge]
+
+- We're broken
+- We're broken
+- We're broken
+- We're broken people, oh
+- We're broken people, oh, yeah
+- We're broken
+- We're broken
+- We're broken
+- We're broken people, oh
+- We're broken people, oh, yeah
+- We're broken
+- We're broken
+- We're broken
+- We're broken people, oh
+- We're broken people, oh, yeah
+ 
+
+- [Chorus]
+
+- I'm standing in front of You
+- I'm standing in front of You
+- I'm trying to be so cool
+- Everything together trying to be so cool
+- I'm standing in front of You
+- I'm standing in front of You
+- I'm trying to be so cool
+- Everything together trying to be so cool
+
+
+- [Outro]
+
+- We're broken
+- We're broken
+- We're broken
+- We're broken people, oh
+- We're broken people, oh, yeah
+- We're broken
+- We're broken
+- We're broken
+- We're broken people, oh
+- We're broken people, oh, yeah

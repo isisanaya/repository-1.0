@@ -1,22 +1,72 @@
 ---
-layout: drama
-title: A Raisin in the Sun
-author: Lorraine Hansberry
-editor: Alex Gil
-source: "Hansberry, Lorraine, and Robert Nemiroff. A Raisin in the Sun. Rep Rei edition. New York: Vintage, 2004. Print."
+layout: poem
+title: The Run and Go
+author: twenty one pilots
+editor: Isis Kamit
+source: "Genius.com"
 
 ---
+- [Verse 1]
 
-<p class="citation"> by {{ page.author }}</p>
+- I can't take them on my own, my own
+- Oh, I'm not the one you know, you know
+- I have killed a man and all I know
+- Is I am on the run and go
 
-(excerpt)
 
-MAMA: Son—how come you talk so much 'bout money?
+- [Chorus]
 
-WALTER (*with immense passion*): Because it is life, Mama!
+- Don't wanna call you in the nighttime
+- Don't wanna give you all my pieces
+- Don't wanna hand you all my trouble
+- Don't wanna give you all my demons
+- You'll have to watch me struggle
+- From several rooms away
+- But tonight I'll need you to stay
 
-MAMA: Oh—So now it’s life. Money is life. Once upon a time freedom used to be life—now it’s money. I guess the world really do change ...
+- Do-do-do-do, do-do-do-do...
 
-WALTER: No—it was always money, Mama. We just didn’t know about it.
 
-MAMA: No . . . something has changed. (*She looks at him*) You something new, boy. In my time we was worried about not being lynched and getting to the North if we could and how to stay alive and still have a pinch of dignity too ... Now here come you and Beneatha—talking 'bout things we never even thought about hardly, me and your daddy. You ain’t satisfied or proud of nothing we done. I mean that you had a home; that we kept you out of trouble till you was grown; that you don’t have to ride to work on the back of nobody’s streetcar—You my children—but how different we done become.
+- [Verse 2]
+
+- I am up against the wall, the wall
+- Oh, I hear them coming down the hall
+- I have killed a man and all I know
+- Is I am on the run and go
+
+
+- [Chorus]
+
+- Don't wanna call you in the nighttime
+- Don't wanna give you all my pieces
+- Don't wanna hand you all my trouble
+- Don't wanna give you all my demons
+- You'll have to watch me struggle
+- From several rooms away
+- But tonight I'll need you to stay
+ 
+
+- [Verse 3]
+
+- Cold nights under siege from accusations
+- Cerebral thunder in one-way conversations
+- Ooh-ooh, ooh-ooh, ooh-ooh-ooh
+
+
+- [Chorus]
+
+- Don't wanna call you in the nighttime
+- Don't wanna give you all my pieces
+- Don't wanna hand you all my trouble
+- Don't wanna give you all my demons
+- You'll have to watch me struggle
+- From several rooms away
+- But tonight I'll need you to stay
+
+
+- [Outro]
+
+- But tonight I'll need you to stay
+- But tonight I'll need you to stay
+- But tonight I'll need you to stay
+- But tonight I'll need you to stay
