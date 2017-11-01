@@ -2,8 +2,8 @@
 
 # Setup
 title:               Isis.
-tagline:             'Disecting Music'
-description:         'Disecting an album'
+tagline:             'Disecting Music.'
+description:         'Disecting an album.'
 url:                 'https://isisanaya.github.io/repository-1.0.git'
 
 baseurl:             '/repository-1.0'
