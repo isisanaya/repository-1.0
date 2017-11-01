@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: MY POEM -SUN RISES
+title: And the Sun Rises
 author: Isis Kamit
 editor: Isis Kamit
 source: Isis's Writing
