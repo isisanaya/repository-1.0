@@ -1,17 +1,63 @@
 ---
 layout: poem
-title: Dreams
-author: Langston Hughes
-editor: Alex Gil
-source: Project Guttenberg
+title: House of Gold
+author: twenty one pilots
+editor: Isis Kamit
+source: "Genius.com"
 ---
 
-- Hold fast to dreams
-- For if dreams die
-- Life is a broken-winged bird
-- That cannot fly.
-- Hold fast to dreams
-- For when dreams go
-- Life is a barren field
-- Frozen with snow.
+- [Verse 1]
+
+- She asked me, "Son, when I grow old
+- Will you buy me a house of gold?
+- And when your father turns to stone
+- Will you take care of me?"
+
+
+- [Chorus]
+
+- She asked me, "Son, when I grow old
+- Will you buy me a house of gold?
+- And when your father turns to stone
+- Will you take care of me?"
+- I will make you queen of everything you see
+- I'll put you on the map
+- I'll cure you of disease
+
+
+- [Verse 2]
+
+- Let's say we up and left this town
+- And turned our future upside down
+- We'll make pretend that you and me
+- Lived ever after happily
+
+
+- [Chorus]
+
+- She asked me, "Son, when I grow old
+- Will you buy me a house of gold?
+- And when your father turns to stone
+- Will you take care of me?"
+- I will make you queen of everything you see
+- I'll put you on the map
+- I'll cure you of disease
+
+
+- [Verse 3]
+
+- And since we know that dreams are dead
+- And life turns plans up on their head
+- I will plan to be a bum
+- So I just might become someone
+
+
+- [Chorus]
+
+- She asked me, "Son, when I grow old
+- Will you buy me a house of gold?
+- And when your father turns to stone
+- I will make you queen of everything you see
+- I'll put you on the map
+- I'll cure you of disease
 
