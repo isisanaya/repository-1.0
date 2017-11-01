@@ -1,30 +1,103 @@
 ---
 layout: poem
-title: And the Sun Rises
-author: Isis Kamit
+title: Holding on to You
+author: twenty one pilots
 editor: Isis Kamit
 source: Isis's Writing
 ---
 
-- A calm blue light settles into a rehabilitative lull behind my eyes,
-- {:.indent-3} the tornado of emotions coming to a resting point. 
+- [Verse 1]
 
-- The excitement that the unknown sent to my front door,
-- {:.indent-3} is seald for when the earth reopens it again.
+- I'm taking over my body
+- Back in control, no more "shotty"
+- I bet a lot of me was lost
+- "T"'s uncrossed and "I"'s undotted
+- I fought it a lot and it seems a lot
+- Like flesh is all I got
+- Not any more, flesh out the door, SWAT!
+- I must've forgot, you can't trust me
+- I'm open a moment and closed when you show it
+- Before you know it I'm lost at sea
+- And now that I write and think about it
+- And the story unfolds
+- You should take my life
+- You should take my soul
 
-- Rain flows down the gutter of my arms and into my heart. 
-- {:.indent-3} and back out into the abyss of immorality. 
 
-- The energies of the universe that formed to create character,
-- {:.indent-3} Fall too, in this fiery state.
-- {:.indent-4} Fire that crackels, and grows, and eats hungrily away and other powers,
-- {:.indent-5} Also shrinks into queit, heat filled, embers. 
+- [Chorus]
 
-- And everything that's wrong in the world, 
-- {:.indent-3} The underground, upside-down, paranormal negativity, 
-- Weighs itself in, on the scale of my concious. 
+- You are surrounding, all my surroundings
+- Sounding down the mountain range
+- Of my left-side brain
+- You are surrounding, all my surroundings
+- Twisting the kaleidoscope
+- Behind both of my eyes
+- And I'll be holding on to you
+- And I'll be holding on to you
 
-- {:.indent-3} Hopefully bright light outweighs the heavy shadows of guilt. 
 
-- And when the day is done,
-- {:.indent-3} This is what creeps back into my mind to rejuvenate my soul. 
+- [Verse 2]
+
+- Remember the moment
+- You know exactly where you're goin'
+- Cause the next moment before you know it
+- Time is slowin' and it's frozen still
+- And the windowsill looks really nice, right?
+- You think twice about your life
+- It probably happens at night, right?
+- Fight it, take the pain, ignite it
+- Tie a noose around your mind
+- Loose enough to breath fine and tie it
+- To a tree tell it
+- You belong to me, this ain't a noose
+- This is a leash and I have news for you
+- You must obey me!
+
+
+- [Chorus]
+
+- You are surrounding, all my surroundings
+- Sounding down the mountain range
+- Of my left-side brain
+- You are surrounding, all my surroundings
+- Twisting the kaleidoscope
+- Behind both of my eyes
+
+
+- [Bridge A]
+
+- Entertain my faith
+- Entertain my faith
+- Entertain my faith
+- Entertain my faith
+- Entertain my faith
+- Entertain my faith
+- Entertain my faith
+- Entertain my faith
+- Entertain my faith
+- Entertain my faith
+ 
+
+
+- [Bridge B](x4)
+
+- Lean with it, rock with it
+- When we gonna stop with it?
+- Lyrics that mean nothing
+- We were gifted with thought
+- Is it time to move our feet
+- To an introspective beat
+- It ain't the speakers that bump hearts
+- It's our hearts that make the beat
+
+
+- [Outro]
+
+- And I'll be holding on to you
+- And I'll be holding on to you
+- And I'll be holding on to you
+- And I'll be holding on to you
+- And I'll be holding on to you
+- And I'll be holding on to you
+- And I'll be holding on to you
+- And I'll be holding on to you
