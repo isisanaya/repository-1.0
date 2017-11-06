@@ -1,8 +1,11 @@
+---
 layout: poem
-title: Guns For Hands
+title: Guns For hands
 author: twenty one pilots
 editor: Isis Kamit
 source: "Genius.com"
+
+---
 
 - [Verse 1]
 
@@ -41,7 +44,7 @@ source: "Genius.com"
 - So that's where we'll go
 - Let's go outside and all join hands
 - But until then you'll never understand
- 
+
 
 - [Chorus]
 

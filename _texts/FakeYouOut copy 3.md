@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Fake You Out
+title: Guns For hands
 author: twenty one pilots
 editor: Isis Kamit
 source: "Genius.com"
