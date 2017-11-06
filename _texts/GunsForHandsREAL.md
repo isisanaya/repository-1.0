@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Guns For hands
+title: Guns For Hands
 author: twenty one pilots
 editor: Isis Kamit
 source: "Genius.com"
